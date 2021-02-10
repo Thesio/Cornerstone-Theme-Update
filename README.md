@@ -1,0 +1,1 @@
+# Cornerstone automated theme update
